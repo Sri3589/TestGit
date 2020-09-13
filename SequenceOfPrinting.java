@@ -1,3 +1,8 @@
+/**
+ * Trying to work on sequence of prinitng of variables.
+ * @author sri
+ * Lets see if this updated in git
+ */
 public class SequenceOfPrinting
 {
 	int a = 10;
@@ -7,9 +12,10 @@ public class SequenceOfPrinting
 	void nonParameter()
 	{
 	  System.out.println("");
+	  System.out.println("Hi Git");
 	  System.out.println("Execute Method 1");
 	  System.out.println("Value of b: " + b);	
-          System.out.println("End of Method 1");
+      System.out.println("End of Method 1");
 	  System.out.println("                    ");
 
 	}
